@@ -1,3 +1,3 @@
-https://komarev.com/ghpvc/?username=regorforgot
+![](https://komarev.com/ghpvc/?username=regorforgot)
 
 Regor#8910
